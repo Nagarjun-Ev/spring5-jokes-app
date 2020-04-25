@@ -1,2 +1,2 @@
-# spring5-jokes-app
+# basic-springboot-app
 Chuck Noris Jokes app
